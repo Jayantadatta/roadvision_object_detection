@@ -17,3 +17,10 @@ This repository contains the training and inference pipeline developed for the R
 * Transforming unstructured spatial `.csv` data into normalized YOLO bounding box formats.
 * Applying computational optimization via gradient descent to tune neural network weights.
 * Utilizing Non-Maximum Suppression (NMS) and Intersection over Union (IoU) metrics to balance precision and recall.
+
+
+## 📖 Behind the Build: Training My First Model
+
+As this was my 1st hackathon or Datathon I wasn't prepared for these things, at first I learned a few things. Then the Competition started and the Problem statement was given. I trained my Low-accurate model with the data and after testing it gave 0.42 score. Then I changed my model to medium and 95 epoch trained that made the score 0.44. 
+At the end when just 11 hours was left then I took a bold decision to train a High resolution model and 200 epoch. But the reality was it needed more time but I could manage only 131 epoch and the score was 0.54 with securing a 87th position. Which was a great happiness for me as it was my first hackathon/Datathon. 
+Maybe if I was experienced I would knew about the epoch completing time constraint.
